@@ -2,6 +2,18 @@
 
 `pubplot` is a `python` module for making publication-quality figures with `matplotlib`.
 
+## News
+* [Version 0.1](https://github.com/fengwangPhysics/pubplot/releases/tag/0.1) is available
+
+## Classes and functions
+### Class:
+**figure**: main class for drawing figures with journal-specified width
+
+### Functions:
+1. **labelLines**: put labels along the line
+2. **alignEndTickLabel**: align tick labels
+
+
 ## Install
 ```
 python setup.py install --prefix=${HOME}/.local/
